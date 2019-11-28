@@ -1,0 +1,44 @@
+SCRUM Master : Wili Saputra
+---------------------------
+
+
+Minggu, 24/11/2019
+------------------	
+Wili Saputra
+1. Kemarin mengerjakan apa ?
+   Jawab : buat akun github dan trello, serta install node.js dan git
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : konfigurasi awal git, buat repository github, install generator bespoke, konfigurasi git ke project bespoke, tes push project bespoke.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : setelah install generator bespoke, kemudian saat grunt server terjadi error, begitu juga saat menggunakan file generator bespoke yang dikasih pak Kent juga error saat di grunt server. 
+
+
+
+
+Senin, 25/11/2019
+-----------------
+Wili Saputra
+1. Kemarin mengerjakan apa ?
+   Jawab : konfigurasi awal git, buat repository github, install generator bespoke, konfigurasi git ke project bespoke.
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : memastikan setiap anggota telah dapat melakukan tes push ke repository remote, merancang salah satu fitur pada aplikasi yaitu fitur challange dan memasukkannya pada product backlog di trello.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : akun github tidak dapat masuk saat ingin melihat repository remote, perancangan fitur challange belum tercapai.
+
+
+
+Selasa, 26/11/2019
+------------------
+Wili Saputra
+1. Kemarin mengerjakan apa ?
+   Jawab : memastikan setiap anggota telah dapat melakukan tes push ke repository remote, merancang salah satu fitur pada aplikasi yaitu fitur challange dan memasukkannya pada product backlog di trello.
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : perancangan tampilan awal aplikasi dan tampilan single player pada kertas, kemudian memasukkannya kedalam card product backlog. Membagi pengerjaan tampilan setiap anggota.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : perancangan tampilan dalam bentuk file .jpeg tidak dapat dibuka oleh beberapa anggota. 
