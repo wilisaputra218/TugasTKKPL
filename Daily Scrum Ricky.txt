@@ -1,24 +1,26 @@
 Daily Scrum Ricky 161111043
 
 27/11/2019
+Wili Saputra
 1. Kemarin mengerjakan apa?
-= 
+= perancangan tampilan awal aplikasi dan tampilan single player pada kertas, kemudian memasukkannya kedalam card product backlog. Membagi pengerjaan tampilan setiap anggota.
 
 2. Apa yang akan dikerjakan hari ini?
-=
+= membuat tampilan awal, pembagian point "3.buat button single player dan multiplayer". 
 
 3. Ada masalah dalam pengerjaan tugas?
-=
+= terkendala dalam membuat file .js/javascript untuk button click.
 
 28/11/2019
+Wili Saputra
 1. Kemarin mengerjakan apa?
-= 
+= membuat tampilan awal, pembagian point "3.buat button single player dan multiplayer". 
 
 2. Apa yang akan dikerjakan hari ini?
-=
+= membuat tampilan single player, pembagian point "3.buat button song dan challenge, kemudian set warna button sesuai perancangan diatas".
 
 3. Ada masalah dalam pengerjaan tugas?
-=
+= terkendala dalam menyesuaikan posisi button.
 
 29/11/2019
 1. Kemarin mengerjakan apa?
