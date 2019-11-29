@@ -32,6 +32,15 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas?
 = terkendala saat membuat fungsi draw pada javascript.
 
+Willy Tanzil
+1. Kemarin mengerjakan apa?
+= membuat Tulisan welcome.... dan select.... , set warna background
+
+2. Apa yang akan dikerjakan hari ini?
+= membuat tampilan awal, pembagian point "2. Membuat tulisan welcome dan select, serta set warna background"
+
+3. Ada masalah dalam pengerjaan tugas?
+= Tidak ada masalah.
 
 28/11/2019
 ----------
@@ -65,6 +74,15 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas?
 = terkendala saat menentukan posisi button.
 
+Willy Tanzil
+1. Kemarin mengerjakan apa?
+= Menambahkan fitur 'Phrases" pada backlog.
+
+2. Apa yang akan dikerjakan hari ini?
+= Membuat tulisan pick.... dan set warna background pada tampilan single player
+
+3. Ada masalah dalam pengerjaan tugas?
+= Tidak ada masalah. 
 
 29/11/2019
 ----------
@@ -97,3 +115,13 @@ Endah Meiasi Rahayu
 
 3. Ada masalah dalam pengerjaan tugas?
 = terkendala dalam pembatasan karakter tertentu dan huruf saja. 
+
+Willy Tanzil
+1. Kemarin mengerjakan apa?
+= Membuat tulisan pick.... dan set warna background
+
+2. Apa yang akan dikerjakan hari ini?
+= merancang fitur "4. Membuat Button Single Player"
+
+3. Ada masalah dalam pengerjaan tugas?
+= Tidak ada kendala
