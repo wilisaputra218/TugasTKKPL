@@ -34,6 +34,16 @@ Ricky
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : Tidak ada masalah
 
+Willy Tanzil
+1. Kemarin mengerjakan apa ?
+   Jawab : membuat akun github dan trello, serta install node.js dan git
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : konfigurasi awal git, buat repository github, install generator bespoke, konfigurasi git ke project bespoke, tes push project bespoke.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : setelah install generator bespoke, kemudian saat grunt server dan dapat diatasi dengan memakai file yang sudah ada
+
 
 Senin, 25/11/2019
 -----------------
@@ -67,7 +77,15 @@ Ricky
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : tidak dapat mesdiskripsikan fitur movie dalam file jade
 
+Willy Tanzil
+1. Kemarin mengerjakan apa ?
+   Jawab : konfigurasi awal git, buat repository github, install generator bespoke, konfigurasi git ke project bespoke.
 
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : melakukan test pull dan push
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : tidak ada masalah apapun
 
 Selasa, 26/11/2019
 ------------------
@@ -101,5 +119,12 @@ Ricky
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : tidak ada masalah apapun
 
+Willy Tanzil
+1. Kemarin mengerjakan apa ?
+   Jawab : merancang fitur phrases pada project dan menambahkannya pada product backlog di trello. 
 
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : membuat Tulisan welcome.... dan select.... , set warna background
 
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : tidak ada masalah
