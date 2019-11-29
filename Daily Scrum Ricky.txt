@@ -43,7 +43,15 @@ Endah Meiasi Rahayu
 = terkendala saat menentukan posisi button.
 
 29/11/2019
+Wili Saputra
+1. Kemarin mengerjakan apa?
+= membuat tampilan single player, pembagian point "3.buat button song dan challenge, kemudian set warna button sesuai perancangan diatas".
 
+2. Apa yang akan dikerjakan hari ini?
+= membuat tampilan multiplayer, pembagian point "1.membuat tulisan silahkan masukkan frasa yang diinginkan".
+
+3. Ada masalah dalam pengerjaan tugas?
+= terkendala dalam menyesuaikan posisi text, dan jenis font yang tepat.
 
 Endah Meiasi Rahayu
 1. Kemarin mengerjakan apa?
