@@ -58,7 +58,7 @@ Endah Meiasi Rahayu
 = merancang button multiplayer.
 
 2. Apa yang akan dikerjakan hari ini?
-= membuat tampilan single player, pembagian poit " 4.buatbutton multiplayer, kemudian set warna button sesuai perancangan diatas".
+= membuat tampilan single player, pembagian poit " 4.buatbutton multiplayer, kemudian set warna button sesuai perancangan diatas".Dan tampilan multiplayer pembagian poit "2. mengatur area permainan". 
 
 3. Ada masalah dalam pengerjaan tugas?
-=
+= terkendala dalam pembatasan karakter tertentu dan huruf saja. 

@@ -1,5 +1,7 @@
 
-
+var word = "";
+var phraseLength = 0;
+var numChar = 0;
 
 function sp(){
     document.getElementById('introPage').style.display = "none";
@@ -14,6 +16,66 @@ function mp(){
 }
 
 
+
+function readText(){
+    word = document.getElementById('input').value;
+    hangman();
+}
+
+function hangman(){
+    var x = word.length;
+        if(x==0){
+            alert("Please enter something into the text box.");
+            return;
+        }
+    var y = x-1;
+    var spaces = 0;
+    var validChar = new Array("a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", " ", "?", "!", ",", ".", "-", "'");
+    for(z = 0; z < word.length; z++){
+        var letter = word.substring(y,x);
+        if(validChar.indexOf(letter) > -1){
+            x--;
+            y--;
+        }
+        else{
+            alert("Please remove any special characters.");
+            return;
+        }
+    }
+    x = word.length;
+    y = x-1;
+    while (x>0){
+        numChar++;
+        var letter = word.substring(y,x);
+        if(letter === " "){
+            document.getElementById('letter'+x).innerHTML = "&nbsp;";
+            document.getElementById('letter'+x).style.visibility = "hidden";
+            document.getElementById('letter'+x).style.display = "block";
+            document.getElementById('underline'+x).style.display = "block";
+            spaces++;
+        }
+        else if(letter === "?" || letter === "!" || letter === "," || letter === "." || letter === "-" || letter === "'"){
+            document.getElementById('letter'+x).innerHTML = letter;
+            document.getElementById('letter'+x).style.display = "block";
+            document.getElementById('underline'+x).style.display = "block";
+            spaces++;
+        }
+        else{
+            document.getElementById('letter'+x).innerHTML = letter;
+            document.getElementById('letter'+x).style.visibility = "hidden";
+            document.getElementById('underline'+x).style.display = "block";            
+            document.getElementById('underline'+x).style.borderBottom = "3px solid black";
+        }
+        x--;
+        y--;
+    }
+    phraseLength = word.length - spaces;
+    document.getElementById('multiPage').style.display = "none";
+    document.getElementById('gamePage').style.display = "block";
+    splitWords();
+    document.getElementById('challengeBank').style.display = "none";
+    draw();
+}
 
 function draw(){
     var ctx = document.getElementById("hangman").getContext('2d');

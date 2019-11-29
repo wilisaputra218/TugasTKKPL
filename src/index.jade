@@ -36,3 +36,8 @@ html(lang='')
         #multiText
           p The phrase guesser should look away from the screen now.
           p Phrase creator, type your phrase and click submit!
+        #inputContainer
+          textarea#input(cols='40', rows='5', onkeyup="countChars('input','charcount');", onkeydown="countChars('input','charcount');", onmouseout="countChars('input','charcount');")
+          span#restriction
+            | Only special characters allowed: 
+            span(style='font-weight: 700;') ? ! , . ' –
