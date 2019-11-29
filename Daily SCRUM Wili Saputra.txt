@@ -24,6 +24,16 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : saat install node.js dan git kedua aplikasi tersebut tidak support windows xp, kemudian install generator bespoke, kemudian saat grunt server terjadi error, begitu juga saat menggunakan file generator bespoke yang dikasih pak Kent juga error saat di grunt server. 
 
+Ricky
+1. Kemarin mengerjakan apa ?
+   Jawab : buat akun github dan trello, serta install node.js dan git
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : konfigurasi awal git, buat repository github, install generator bespoke, konfigurasi git ke project bespoke, tes push project bespoke.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Tidak ada masalah
+
 
 Senin, 25/11/2019
 -----------------
@@ -47,6 +57,17 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : belum mampu mendeskripsikan fitur songs yang akan diterapkan pada aplikasi.
 
+Ricky
+1. Kemarin mengerjakan apa ?
+   Jawab : konfigurasi awal git, buat repository github, install generator bespoke, konfigurasi git ke project bespoke.
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : memastikan setiap anggota telah dapat melakukan tes push ke repository remote, merancang salah satu fitur pada aplikasi yaitu fitur challange dan memasukkannya pada product backlog di trello.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : tidak dapat mesdiskripsikan fitur movie dalam file jade
+
+
 
 Selasa, 26/11/2019
 ------------------
@@ -69,3 +90,16 @@ Endah Meiasi Rahayu
 
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : belum bisa menyelesaikan gambar tiang secara sempurna (masih menentukan titik yang tepat).
+
+Ricky
+1. Kemarin mengerjakan apa ?
+   Jawab : merancang fitur movies pada project dan menambahkannya pada product backlog di trello.
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : Buat Head pada index.jade, kemudian link ke js dan styl
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : tidak ada masalah apapun
+
+
+
