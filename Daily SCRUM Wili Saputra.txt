@@ -14,7 +14,15 @@ Wili Saputra
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : setelah install generator bespoke, kemudian saat grunt server terjadi error, begitu juga saat menggunakan file generator bespoke yang dikasih pak Kent juga error saat di grunt server. 
 
+Endah Meiasi Rahayu
+1. Kemarin mengerjakan apa ?
+   Jawab : buat akun github dan trello, serta install node.js dan git, konfigurasi awal git
 
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : install generator bespoke, konfigurasi git ke project bespoke, clonning project bespoke, tes push project bespoke.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : saat install node.js dan git kedua aplikasi tersebut tidak support windows xp, kemudian install generator bespoke, kemudian saat grunt server terjadi error, begitu juga saat menggunakan file generator bespoke yang dikasih pak Kent juga error saat di grunt server. 
 
 
 Senin, 25/11/2019
@@ -29,6 +37,15 @@ Wili Saputra
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : akun github tidak dapat masuk saat ingin melihat repository remote, perancangan fitur challange belum tercapai.
 
+Endah Meiasi Rahayu
+1. Kemarin mengerjakan apa ?
+   Jawab : install generator bespoke, konfigurasi git ke project bespoke, clonning project bespoke, tes push project bespoke.
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : merancang fitur songs pada aplikasi kemudian menambahkannya pada product backlog di trello. 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : belum mampu mendeskripsikan fitur songs yang akan diterapkan pada aplikasi.
 
 
 Selasa, 26/11/2019
@@ -42,3 +59,13 @@ Wili Saputra
 
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : perancangan tampilan dalam bentuk file .jpeg tidak dapat dibuka oleh beberapa anggota. 
+
+Endah Meiasi Rahayu
+1. Kemarin mengerjakan apa ?
+   Jawab : merancang fitur songs pada aplikasi kemudian menambahkannya pada product backlog di trello.
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : merancang canvas pada tampilan awal aplikasi.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : belum bisa menyelesaikan gambar tiang secara sempurna (masih menentukan titik yang tepat).

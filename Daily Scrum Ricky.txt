@@ -11,6 +11,16 @@ Wili Saputra
 3. Ada masalah dalam pengerjaan tugas?
 = terkendala dalam membuat file .js/javascript untuk button click.
 
+Endah Meiasi Rahayu
+1. Kemarin mengerjakan apa?
+= merancang canvas pada tampilan awal aplikasi.
+
+2. Apa yang akan dikerjakan hari ini?
+= membuat tampilan awal, pembagian point " 4.buat canvas dibawah button".
+
+3. Ada masalah dalam pengerjaan tugas?
+= terkendala saat membuat fungsi draw pada javascript.
+
 28/11/2019
 Wili Saputra
 1. Kemarin mengerjakan apa?
@@ -22,12 +32,25 @@ Wili Saputra
 3. Ada masalah dalam pengerjaan tugas?
 = terkendala dalam menyesuaikan posisi button.
 
-29/11/2019
+Endah Meiasi Rahayu
 1. Kemarin mengerjakan apa?
-= 
+= membuat tampilan awal, pembagian point " 4.buat canvas dibawah button".
 
 2. Apa yang akan dikerjakan hari ini?
-=
+= merancang button multiplayer.
+
+3. Ada masalah dalam pengerjaan tugas?
+= terkendala saat menentukan posisi button.
+
+29/11/2019
+
+
+Endah Meiasi Rahayu
+1. Kemarin mengerjakan apa?
+= merancang button multiplayer.
+
+2. Apa yang akan dikerjakan hari ini?
+= membuat tampilan single player, pembagian poit " 4.buatbutton multiplayer, kemudian set warna button sesuai perancangan diatas".
 
 3. Ada masalah dalam pengerjaan tugas?
 =
