@@ -1,6 +1,17 @@
 Daily Scrum Ricky 161111043
 
 27/11/2019
+-----------
+Ricky 
+1. Kemarin mengerjakan apa?
+= membuat Head pada index.jade, kemudian link ke js dan styl
+
+2. Apa yang akan dikerjakan hari ini?
+= membuat tampilan awal, pembagian point "2.buat button Pharases dan Movies kemudian set warna button sesuai perancangan"
+
+3. Ada masalah dalam pengerjaan tugas?
+= tidak ada kendala
+
 Wili Saputra
 1. Kemarin mengerjakan apa?
 = perancangan tampilan awal aplikasi dan tampilan single player pada kertas, kemudian memasukkannya kedalam card product backlog. Membagi pengerjaan tampilan setiap anggota.
@@ -21,7 +32,19 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas?
 = terkendala saat membuat fungsi draw pada javascript.
 
+
 28/11/2019
+----------
+Ricky
+1. Kemarin mengerjakan apa?
+= membuat tampilan awal, pembagian point "2.buat button Pharases dan Movies kemudian set warna button sesuai perancangan"
+
+2. Apa yang akan dikerjakan hari ini?
+= membuat tampilan awal, pembagian point "2.buat button Pharases dan Movies kemudian set warna button sesuai perancangan"
+
+3. Ada masalah dalam pengerjaan tugas?
+= terkendala dalam menyesuaikan warna background.
+
 Wili Saputra
 1. Kemarin mengerjakan apa?
 = membuat tampilan awal, pembagian point "3.buat button single player dan multiplayer". 
@@ -42,7 +65,19 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas?
 = terkendala saat menentukan posisi button.
 
+
 29/11/2019
+----------
+Ricky
+1. Kemarin mengerjakan apa?
+= membuat tampilan awal, pembagian point "2.buat button Pharases dan Movies kemudian set warna button sesuai perancangan"
+
+2. Apa yang akan dikerjakan hari ini?
+= membuat backlog tampilan multiplayer dan membuat backlog papan permainan tahap 1
+
+3. Ada masalah dalam pengerjaan tugas?
+= kesulitan dalam membuat jenis papan permainan yang tepat
+
 Wili Saputra
 1. Kemarin mengerjakan apa?
 = membuat tampilan single player, pembagian point "3.buat button song dan challenge, kemudian set warna button sesuai perancangan diatas".
