@@ -212,4 +212,17 @@ function splitWords(){
             countBack--;
         }
     }
+    for(x=0;x<8;x++){
+        countBack = 15+placeKeep;
+        if(numChar > countBack){
+            while(countBack > 1){
+                if(document.getElementById('letter'+countBack).innerHTML == "&nbsp;"){
+                    document.getElementById('underline'+countBack).style.width = (document.getElementById('underline1').offsetWidth*((16+placeKeep)-countBack))+"px";
+                    placeKeep = countBack;
+                    countBack = 0;
+                }
+                countBack--;
+            }
+        }
+    }
 }
