@@ -3,6 +3,7 @@ SCRUM Master : Willy Tanzil
 
 Sabtu, 30/11/2019
 ------------------	
+Willy Tanzil
 1. Kemarin mengerjakan apa ?
    Jawab : merancang fitur "4. Membuat Button Single Player".
 
@@ -14,9 +15,20 @@ Sabtu, 30/11/2019
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : Tidak ada masalah.
 
+Ricky
+1. Kemarin mengerjakan apa ?
+   Jawab : membuat tampilan awal, pembagian point "2.buat button Pharases dan Movies kemudian set warna button sesuai perancangan"
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : melakukan push dalam membangun halaman permainan pada papan permainan tahap 2.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : tidak ada kendala
+
+
 Minggu, 01/12/2019
 -----------------
-
+Willy Tanzil
 1. Kemarin mengerjakan apa ?
    Jawab : 
 2. Apa yang akan dikerjakan hari ini ?
@@ -26,6 +38,7 @@ Minggu, 01/12/2019
 
 Senin, 02/12/2019
 ------------------
+Willy Tanzil
 1. Kemarin mengerjakan apa ?
    Jawab : 
 
