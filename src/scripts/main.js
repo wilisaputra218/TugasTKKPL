@@ -194,3 +194,22 @@ function draw(){
             cntx.lineTo(150,80);
             cntx.stroke();
 }
+
+function splitWords(){
+    var placeKeep = 0;
+    var countBack = 16;
+    if(numChar > 15){
+        while(countBack > 1){
+            if(document.getElementById('letter16').innerHTML == "&nbsp;"){
+                document.getElementById('underline16').style.width = "0px";
+                document.getElementById('underline16').style.marginRight = "0px";
+            }
+            if(document.getElementById('letter'+countBack).innerHTML == "&nbsp;"){
+                document.getElementById('underline'+countBack).style.width = (document.getElementById('underline1').offsetWidth)*(16-countBack)+"px";
+                placeKeep = countBack;
+                countBack = 0;
+            }
+            countBack--;
+        }
+    }
+}
