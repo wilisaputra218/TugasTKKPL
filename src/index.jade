@@ -10,10 +10,9 @@ html(lang='')
     script(type='text/javascript', src='scripts/main.js')
     script.
       window.onload = draw;
-  
   body
     #introPage
-     #introText
+      #introText
         p Welcome to Game Hangman!
         p Select single player or multiplayer to begin!
         #buttonContainer
@@ -279,7 +278,6 @@ html(lang='')
         #x(value='X', onclick='guessLetter()') X
         #y(value='Y', onclick='guessLetter()') Y
         #z(value='Z', onclick='guessLetter()') Z
-
       #challengeBank
         #a(value='A', onclick='challengeGuess()') A
         #b(value='B', onclick='challengeGuess()') B

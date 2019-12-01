@@ -226,3 +226,20 @@ function splitWords(){
         }
     }
 }
+
+function guessLetter(){
+    var correct = 0;
+    var target = event.target || event.srcElement;
+    target.style.visibility = "hidden";
+    var lower = target.id;
+    var upper = document.getElementById(lower).getAttribute('value');
+    var results = document.getElementById('results');
+    var ul1 = document.getElementById('underline1').offsetWidth;
+    for(a = 1; a < 101; a++){
+        if(document.getElementById('letter'+a).innerHTML === upper || document.getElementById('letter'+a).innerHTML === lower){
+            document.getElementById('letter'+a).style.visibility = "visible";
+            correct++;
+            numRight++;
+        }
+    }
+}

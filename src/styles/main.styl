@@ -12,6 +12,14 @@ body
     background -moz-linear-gradient(#c1c1c1, white, #c1c1c1)
     background linear-gradient(#c1c1c1, white, #c1c1c1)
 
+a
+    color #b10000
+    text-decoration none
+    &:hover
+        text-decoration underline
+    &:visited
+        color #b10000
+
 body, html, #category, #category1, #category2, #phrases, #movies, #songs, #challenge, #introPage, #introText, #introText p, #sp, #mp, #sp1, #mp1, #multiPage, #singlePage #wordWrap, #wordWrap div, #restriction, #gamePage, #letterBank div, #challengeBank div
     -webkit-box-sizing border-box
     -moz-box-sizing border-box
@@ -269,3 +277,88 @@ body, html, #category, #category1, #category2, #phrases, #movies, #songs, #chall
 
 #home
     margin-top 0px
+
+@media (max-width: 866px)     #introPage, #singlePage, #multiPage,
+    width 500px
+    height 500px
+
+@media (max-width: 866px)
+    #introText
+        width 500px
+        height 85px
+    #buttonContainer
+        width 500px
+        height 60px
+        margin 20px auto
+    #sp1
+        margin 25px 10px auto auto
+    #mp1
+        margin 40px 10px auto auto
+    #homeHangman
+        margin 100px auto 0 auto
+    #singlePage
+        height 345px
+        p
+            font-size 30px
+            margin 0px auto 20px auto
+    #categoryHolder
+        height 180px
+    #category
+        width 100%
+        height 180px
+    #category1
+        margin-bottom 20px
+    #multiPage
+        height 350px
+    #wordInput
+        height 250px
+        width 100%
+    #multiText
+        p
+            font-size 17.6px
+    #input
+        font-size 20px
+    #restriction
+        right 50px
+        bottom 18px
+        font-size 12px
+    #characterCount
+        width 500px
+        height 30px
+        margin 15px auto 0 auto
+        font-size 20px
+    #submit
+        font-size 25px
+        width 130px
+        height 30px
+        line-height 30px
+    #gamePage
+    #categoryName
+        margin 0 auto
+        font-size 30px
+    #wordWrap
+        display inline-block
+        width 470px
+        margin 0 auto
+        padding 0px
+    #hangman
+        margin 20px auto 0 auto
+    #results
+        margin-top 5px
+        height 50px
+        visibility hidden
+        line-height 70px
+    #home
+        margin-top 0px
+    #challengeGame
+        text-align center
+
+@media (max-width: 866px)         #introText p, #multiText p
+    font-size 25px
+    margin 10px auto
+
+@media (max-width: 866px)         #sp, #mp, #sp1, #mp1
+    font-size 25px
+    width 175px
+    height 60px
+    line-height 60px
