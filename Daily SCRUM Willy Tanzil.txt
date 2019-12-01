@@ -23,7 +23,17 @@ Ricky
    Jawab : melakukan push dalam membangun halaman permainan pada papan permainan tahap 2.
 
 3. Ada masalah dalam pengerjaan tugas ?
-   Jawab : tidak ada kendala
+   Jawab : Tidak ada masalah.
+
+Endah Meiasi Rahayu 
+1. Kemarin mengerjakan apa ?
+   Jawab : membuat tampilan single player, pembagian poit " 4.buat button multiplayer, kemudian set warna button sesuai perancangan diatas".Dan tampilan multiplayer pembagian poit "2. mengatur area permainan".
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : membuat papan permainan tahap 1, pembagian poit "2. mengatur halaman/papan permainan tahap 1, seperti mengatur ukuran dan tata letak papan permainan". 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : terkendala karena masih adanya sedikit bug pada permainan dan masih ada coding yang error.
 
 
 Minggu, 01/12/2019
@@ -35,6 +45,18 @@ Willy Tanzil
    Jawab : 
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : 
+
+
+Endah Meiasi Rahayu 
+1. Kemarin mengerjakan apa ?
+   Jawab : membuat papan permainan tahap 1, pembagian poit "2. mengatur halaman/papan permainan tahap 1, seperti mengatur ukuran dan tata letak papan permainan". 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : membuat papan permainan tahap 2, pembagian poit "2. mengatur halaman/papan permainan tahap 2, seperti membuat challengeBank dari huruf a sampai huruf m". 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : tidak ada masalah.
+
 
 Senin, 02/12/2019
 ------------------
