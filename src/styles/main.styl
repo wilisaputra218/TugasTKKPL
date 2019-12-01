@@ -12,12 +12,12 @@ body
     background -moz-linear-gradient(#c1c1c1, white, #c1c1c1)
     background linear-gradient(#c1c1c1, white, #c1c1c1)
 
-body, html, #category, #category1, #category2, #phrases, #movies, #songs, #challenge, #introPage, #introText, #introText p, #sp, #mp, #sp1, #mp1, #multiPage, #singlePage #wordWrap, #wordWrap div, #restriction, #gamePage, #letterBank div, #challengeBank div, #videoPage
+body, html, #category, #category1, #category2, #phrases, #movies, #songs, #challenge, #introPage, #introText, #introText p, #sp, #mp, #sp1, #mp1, #multiPage, #singlePage #wordWrap, #wordWrap div, #restriction, #gamePage, #letterBank div, #challengeBank div
     -webkit-box-sizing border-box
     -moz-box-sizing border-box
     box-sizing border-box
     
-#introPage, #singlePage, #multiPage, #videoPage
+#introPage, #singlePage, #multiPage
     position absolute
     top 0
     right 0
@@ -242,8 +242,30 @@ body, html, #category, #category1, #category2, #phrases, #movies, #songs, #chall
 #letterBank div:hover, #challengeBank div:hover
     background-color #797979
 
+#letterBank div:active, #challengeBank div:active
+    background-color gray
+    width 50px
+    font-size 45px
+    padding-top 3px
+
 #results
     margin-top 5px
     height 70px
     visibility hidden
     line-height 70px
+
+#again, #home
+    display none
+    width 50%
+    height 65px
+    margin 0px auto 20px auto
+    font-size 35px
+    line-height 65px
+    text-align center
+    color white
+    background-color #00006c
+    border-radius 25px
+    cursor pointer
+
+#home
+    margin-top 0px

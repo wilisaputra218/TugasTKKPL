@@ -20,7 +20,7 @@ Ricky
    Jawab : membuat tampilan awal, pembagian point "2.buat button Pharases dan Movies kemudian set warna button sesuai perancangan"
 
 2. Apa yang akan dikerjakan hari ini ?
-   Jawab : melakukan push dalam membangun halaman permainan pada papan permainan tahap 2.
+   Jawab : melakukan push dalam membangun halaman permainan pada papan permainan tahap 
 
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : Tidak ada masalah.
@@ -35,6 +35,15 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : terkendala karena masih adanya sedikit bug pada permainan dan masih ada coding yang error.
 
+Wili Saputra
+1. Kemarin mengerjakan apa ?
+   Jawab : membuat tampilan multiplayer, pembagian point "1.membuat tulisan silahkan masukkan frasa yang diinginkan".
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : melanjutkan membuat papan permainan tahap 1, pembagian point "2. Mengatur halaman/papan permainan tahap 1, seperti mengatur ukuran dan tata letak papan permainan, dan memperbaiki bug sebelumnya yang dibuat oleh Endah.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Tidak ada masalah.
 
 Minggu, 01/12/2019
 -----------------
@@ -46,7 +55,6 @@ Willy Tanzil
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : 
 
-
 Endah Meiasi Rahayu 
 1. Kemarin mengerjakan apa ?
    Jawab : membuat papan permainan tahap 1, pembagian poit "2. mengatur halaman/papan permainan tahap 1, seperti mengatur ukuran dan tata letak papan permainan". 
@@ -57,6 +65,15 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : tidak ada masalah.
 
+Wili Saputra 
+1. Kemarin mengerjakan apa ?
+   Jawab : melanjutkan membuat papan permainan tahap 1, pembagian point "2. Mengatur halaman/papan permainan tahap 1, seperti mengatur ukuran dan tata letak papan permainan, dan memperbaiki bug sebelumnya yang dibuat oleh Endah. 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : melanjutkanvmembuat papan permainan tahap 2 yang sebelumnya dikerjakan Endah, pembagian point "2. Mengatur halaman/papan permainan tahap 2, seperti membuat styl untuk mengatur again, letterBank. 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Tidak ada masalah.
 
 Senin, 02/12/2019
 ------------------
