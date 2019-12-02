@@ -49,11 +49,15 @@ Minggu, 01/12/2019
 -----------------
 Willy Tanzil
 1. Kemarin mengerjakan apa ?
-   Jawab : 
+   Jawab : membuat backlog papan permainan tahap 2.
+	   membuat function pada java script di product backlog.
+	   push --> membangun halaman permainan pada papan permainan tahap 
+
 2. Apa yang akan dikerjakan hari ini ?
-   Jawab : 
+   Jawab : Membuat backlog tampilan responsive terhadap berbagai media dan membuat function pada javascript.
+
 3. Ada masalah dalam pengerjaan tugas ?
-   Jawab : 
+   Jawab :terkendala dalam pembuatan fuction pada javascript.
 
 Ricky
 1. Kemarin mengerjakan apa ?
@@ -89,13 +93,13 @@ Senin, 02/12/2019
 ------------------
 Willy Tanzil
 1. Kemarin mengerjakan apa ?
-   Jawab : 
+   Jawab : Membuat backlog tampilan responsive terhadap berbagai media dan membuat function pada javascript.
 
 2. Apa yang akan dikerjakan hari ini ?
-   Jawab : 
+   Jawab : Membuat tampilan responsive terhadap berbagai media dan membuat function pada javascript.
 
 3. Ada masalah dalam pengerjaan tugas ?
-   Jawab : 
+   Jawab : Tidak ada masalah.
 
 Endah Meiasi Rahayu 
 1. Kemarin mengerjakan apa ?
