@@ -97,3 +97,12 @@ Willy Tanzil
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : 
 
+Endah Meiasi Rahayu 
+1. Kemarin mengerjakan apa ?
+   Jawab : membuat papan permainan tahap 2, pembagian poit "2. mengatur halaman/papan permainan tahap 2, seperti membuat challengeBank dari huruf a sampai huruf m". 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : membuat tampilan lebih responsive terhadap ukuran 500px dan mengerjakan function win pada javascript.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : terkendala pada percabangan function win. 

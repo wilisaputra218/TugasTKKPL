@@ -243,3 +243,30 @@ function guessLetter(){
         }
     }
 }
+
+function win(){
+    var ul1 = document.getElementById('underline1').offsetWidth;
+    var again = document.getElementById('again');
+    var results = document.getElementById('results');
+        results.style.visibility = "visible";
+        results.style.color = "#00b100";
+    if(numWrong > 6){
+        results.innerHTML = "It's about time you figured it out...";
+        document.getElementById('letterBank').style.display = "none";
+        again.style.display = "block";
+        document.getElementById('home').style.display = "block";
+       
+        if(ul1 == 50){
+            results.style.lineHeight = "70px";
+            results.style.fontSize = "30px";
+        }
+        if(ul1 == 28){
+            results.style.lineHeight = "50px";
+            results.style.fontSize = "25px";
+        }
+        if(ul1 == 18){
+            results.style.lineHeight = "40px";
+            results.style.fontSize = "20px";
+        }
+    }
+}
