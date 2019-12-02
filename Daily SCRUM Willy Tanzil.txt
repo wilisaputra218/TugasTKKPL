@@ -80,7 +80,7 @@ Wili Saputra
    Jawab : melanjutkan membuat papan permainan tahap 1, pembagian point "2. Mengatur halaman/papan permainan tahap 1, seperti mengatur ukuran dan tata letak papan permainan, dan memperbaiki bug sebelumnya yang dibuat oleh Endah. 
 
 2. Apa yang akan dikerjakan hari ini ?
-   Jawab : melanjutkanvmembuat papan permainan tahap 2 yang sebelumnya dikerjakan Endah, pembagian point "2. Mengatur halaman/papan permainan tahap 2, seperti membuat styl untuk mengatur again, letterBank. 
+   Jawab : melanjutkan membuat papan permainan tahap 2 yang sebelumnya dikerjakan Endah, pembagian point "2. Mengatur halaman/papan permainan tahap 2, seperti membuat styl untuk mengatur again, letterBank. 
 
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : Tidak ada masalah.
@@ -106,3 +106,13 @@ Endah Meiasi Rahayu
 
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : terkendala pada percabangan function win. 
+
+Wili Saputra 
+1. Kemarin mengerjakan apa ?
+   Jawab : melanjutkan membuat papan permainan tahap 2 yang sebelumnya dikerjakan Endah, pembagian point "2. Mengatur halaman/papan permainan tahap 2, seperti membuat styl untuk mengatur again, letterBank. 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : melanjutkan membuat tampilan responsive terhadap ukuran 500px dan membuat percabangan function win pada javascript. 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Tampilan tidak begitu responsive terhadap ukuran kecil.
