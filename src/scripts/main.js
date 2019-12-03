@@ -1,9 +1,11 @@
 var rand = 0;
 var word = "";
+var numWrong = 0;
 var phraseLength = 0;
 var numChar = 0;
 
 var songs = ["Mungkin", "Jangan Bertengkar", "Salah Apa Ku", "Heavy Rotation", "Runaway Baby", "We Are The Champion", "Loser", "Sambalado", "Direject", "Tanpa Status"];
+var movies = ["Terminator", "The Greatest Showman", "Titanic", "Resident Evil", "Frozen", "Ketika Cinta Bertasbih", "Dua Garis Biru", "Dilan", "Gundala", "Pengabdi Setan", "Despicable Me", "Jumanji"];
 var challenges = ["E", "R", "W"];
 
 function sp(){
@@ -16,6 +18,14 @@ function mp(){
     document.getElementById('introPage').style.display = "none";
     document.getElementById('singlePage').style.display = "none";
     document.getElementById('multiPage').style.display = "block";
+}
+
+function movie(){
+    rand = Math.floor(Math.random()*movies.length);
+    word = movies[rand];
+    document.getElementById('singlePage').style.display = "none";
+    document.getElementById('categoryName').innerHTML = "Movies titles";
+    hangman();
 }
 
 
