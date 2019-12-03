@@ -59,8 +59,15 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : 
 
+Ricky
+1. Kemarin mengerjakan apa ?
+   Jawab : menambahkan judul film ke variabel array, dan membuat function movies. 
 
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : Membuat function hang berbentuk gambar orang
 
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : function hang masih memiliki bug
 
 Kamis, 05/12/2019
 ------------------	
