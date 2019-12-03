@@ -1,9 +1,10 @@
 var rand = 0;
 var word = "";
 var numWrong = 0;
+var numRight = 0;
 var phraseLength = 0;
 var numChar = 0;
-
+var phrases = ["A fish out of water", "A golden key can open any door", "A knight in shining armour", "Apple of my eye", "As good as gold", "One in one million", "I beg to differ", "Easier said than done", "As safe as houses", "Don't cry over spilled milk", "Curiosity killed the cat"];
 var songs = ["Mungkin", "Jangan Bertengkar", "Salah Apa Ku", "Heavy Rotation", "Runaway Baby", "We Are The Champion", "Loser", "Sambalado", "Direject", "Tanpa Status"];
 var movies = ["Terminator", "The Greatest Showman", "Titanic", "Resident Evil", "Frozen", "Ketika Cinta Bertasbih", "Dua Garis Biru", "Dilan", "Gundala", "Pengabdi Setan", "Despicable Me", "Jumanji"];
 var challenges = ["E", "R", "W"];
@@ -18,6 +19,15 @@ function mp(){
     document.getElementById('introPage').style.display = "none";
     document.getElementById('singlePage').style.display = "none";
     document.getElementById('multiPage').style.display = "block";
+}
+
+
+function phrase(){
+    rand = Math.floor(Math.random()*phrases.length);
+    word = phrases[rand];
+    document.getElementById('singlePage').style.display = "none";
+    document.getElementById('categoryName').innerHTML = "Phrases";
+    hangman();
 }
 
 function movie(){

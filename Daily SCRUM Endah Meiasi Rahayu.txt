@@ -36,6 +36,16 @@ Ricky
    Jawab : Tidak ada masalah.
 
 
+Willy Tanzil
+1. Kemarin mengerjakan apa ?
+   Jawab : Membuat tampilan responsive terhadap ukuran 866 berbagai media dan membuat function pada javascript pengerjaan kedua
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : Mencari phrases dalam bahasa inggris, kemudian masukkan ke dalam array dan membuat function pada javascript.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Tidak ada masalah.
+
 Rabu, 04/12/2019
 -----------------	
 Endah Meiasi Rahayu 
