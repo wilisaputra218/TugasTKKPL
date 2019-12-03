@@ -69,6 +69,16 @@ Ricky
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : function hang masih memiliki bug
 
+Willy Tanzil
+1. Kemarin mengerjakan apa ?
+   Jawab : Mencari phrases dalam bahasa inggris, kemudian masukkan ke dalam array dan membuat function pada javascript.
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : Membuat function hang berbentuk gambar orang
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Tidak ada kendala.
+
 Kamis, 05/12/2019
 ------------------	
 Endah Meiasi Rahayu 
