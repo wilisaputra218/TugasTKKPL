@@ -1,0 +1,47 @@
+SCRUM Master : Endah Meiasi Rahayu
+----------------------------------
+
+
+Selasa, 03/12/2019
+-------------------	
+Endah Meiasi Rahayu 
+
+1. Kemarin mengerjakan apa ?
+   Jawab : membuat tampilan lebih responsive terhadap ukuran 500px dan mengerjakan function win pada javascript.
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : menambahkan judul lagu pada variabel Array dan membuat function song yang didalamnya terdapat fungsi random pada javascript.
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : tidak ada kendala.
+
+
+
+Rabu, 04/12/2019
+-----------------	
+Endah Meiasi Rahayu 
+
+1. Kemarin mengerjakan apa ?
+   Jawab : 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : 
+
+
+
+
+Kamis, 05/12/2019
+------------------	
+Endah Meiasi Rahayu 
+
+1. Kemarin mengerjakan apa ?
+   Jawab : 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : 

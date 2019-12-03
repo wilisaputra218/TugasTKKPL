@@ -3,6 +3,9 @@ var word = "";
 var phraseLength = 0;
 var numChar = 0;
 
+var songs = ["Mungkin", "Jangan Bertengkar", "Salah Apa Ku", "Heavy Rotation", "Runaway Baby", "We Are The Champion", "Loser", "Sambalado", "Direject", "Tanpa Status"];
+
+
 function sp(){
     document.getElementById('introPage').style.display = "none";
     document.getElementById('multiPage').style.display = "none";
@@ -14,6 +17,17 @@ function mp(){
     document.getElementById('singlePage').style.display = "none";
     document.getElementById('multiPage').style.display = "block";
 }
+
+
+function song(){
+    rand = Math.floor(Math.random()*songs.length);
+    word = songs[rand];
+    document.getElementById('singlePage').style.display = "none";
+    document.getElementById('categoryName').innerHTML = "Song titles and lyrics";
+    hangman();
+}
+
+
 
 function countChars(countfrom,displayto) {
     var len = document.getElementById(countfrom).value.length;
