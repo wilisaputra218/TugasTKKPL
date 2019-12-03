@@ -15,6 +15,17 @@ Endah Meiasi Rahayu
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : tidak ada kendala.
 
+Wili Saputra 
+1. Kemarin mengerjakan apa ?
+   Jawab : melanjutkan membuat tampilan responsive terhadap ukuran 500px dan membuat percabangan function win pada javascript. 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : menentukan variabel challenge kemudian masukkan dalam variabel array, dan membuat function challenge. 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Tidak ada masalah.
+
+
 
 
 Rabu, 04/12/2019
