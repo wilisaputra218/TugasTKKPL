@@ -5,8 +5,8 @@ var numRight = 0;
 var phraseLength = 0;
 var numChar = 0;
 var phrases = ["A fish out of water", "A golden key can open any door", "A knight in shining armour", "Apple of my eye", "As good as gold", "One in one million", "I beg to differ", "Easier said than done", "As safe as houses", "Don't cry over spilled milk", "Curiosity killed the cat"];
-var songs = ["Mungkin", "Jangan Bertengkar", "Salah Apa Ku", "Heavy Rotation", "Runaway Baby", "We Are The Champion", "Loser", "Sambalado", "Direject", "Tanpa Status"];
 var movies = ["Terminator", "The Greatest Showman", "Titanic", "Resident Evil", "Frozen", "Ketika Cinta Bertasbih", "Dua Garis Biru", "Dilan", "Gundala", "Pengabdi Setan", "Despicable Me", "Jumanji"];
+var songs = ["Mungkin", "Jangan Bertengkar", "Salah Apa Ku", "Heavy Rotation", "Runaway Baby", "We Are The Champion", "Loser", "Sambalado", "Direject", "Tanpa Status"];
 var challenges = ["E", "R", "W"];
 
 function sp(){
@@ -20,7 +20,6 @@ function mp(){
     document.getElementById('singlePage').style.display = "none";
     document.getElementById('multiPage').style.display = "block";
 }
-
 
 function phrase(){
     rand = Math.floor(Math.random()*phrases.length);
@@ -37,7 +36,6 @@ function movie(){
     document.getElementById('categoryName').innerHTML = "Movies titles";
     hangman();
 }
-
 
 function song(){
     rand = Math.floor(Math.random()*songs.length);
@@ -389,5 +387,234 @@ function win(){
             results.style.marginTop = "15px";
             results.style.fontSize = "75px";
         }
+    }
+}
+
+function hang(){
+    var ctx = document.getElementById("hangman").getContext('2d');
+    if(numWrong==1){
+        ctx.beginPath(); //head
+            ctx.arc(150, 100, 20, 0, 2*Math.PI);
+            ctx.stroke();
+        ctx.beginPath(); //left eye
+            ctx.arc(143, 95, 3.5, 0, 2*Math.PI);
+            ctx.stroke();
+        ctx.beginPath(); //right eye
+            ctx.arc(157, 95, 3.5, 0, 2*Math.PI);
+            ctx.stroke();
+        ctx.beginPath(); //mouth
+            ctx.arc(150, 103, 9, 0, Math.PI);
+            ctx.stroke();
+    }
+    if(numWrong==2){
+        ctx.beginPath(); //body
+            ctx.moveTo(150,120);
+            ctx.lineTo(150,190);
+            ctx.stroke();
+    }
+    if(numWrong==3){
+        ctx.fillStyle = "white";
+        ctx.fillRect(138, 102, 24, 12); //cover mouth
+        ctx.beginPath(); //straight mouth
+            ctx.moveTo(140,108);
+            ctx.lineTo(160,108);
+            ctx.stroke();
+        ctx.beginPath(); //right arm
+            ctx.moveTo(150,135);
+            ctx.lineTo(180,160);
+            ctx.stroke();
+    }
+    if(numWrong==4){
+        ctx.beginPath(); //left arm
+            ctx.moveTo(150,135);
+            ctx.lineTo(120,160);
+            ctx.stroke();
+    }
+    if(numWrong==5){
+        ctx.fillRect(138, 102, 24, 12); //cover mouth
+        ctx.beginPath(); //sad mouth
+            ctx.arc(150, 112, 9, 0, Math.PI, true);
+            ctx.stroke();
+        ctx.beginPath(); //right leg
+            ctx.moveTo(149,188);
+            ctx.lineTo(180,230);
+            ctx.stroke();
+    }
+    if(numWrong==6){
+        ctx.beginPath(); //left leg
+            ctx.moveTo(151,188);
+            ctx.lineTo(120,230);
+            ctx.stroke();
+    }
+    if(numWrong==7){
+        ctx.fillRect(138, 90, 24, 24); //cover face
+        ctx.fillRect(118, 121.2, 70, 120); //cover body
+        ctx.beginPath(); //straight mouth
+            ctx.moveTo(140,108);
+            ctx.lineTo(160,108);
+            ctx.stroke();
+        ctx.beginPath(); //body
+            ctx.moveTo(150,135);
+            ctx.lineTo(150,205);
+            ctx.stroke();
+        ctx.beginPath(); //right arm
+            ctx.moveTo(150,150);
+            ctx.lineTo(180,175);
+            ctx.stroke();
+        ctx.beginPath(); //left arm
+            ctx.moveTo(150,150);
+            ctx.lineTo(120,175);
+            ctx.stroke();
+        ctx.beginPath(); //right leg
+            ctx.moveTo(149,203);
+            ctx.lineTo(180,245);
+            ctx.stroke();
+        ctx.beginPath(); //left leg
+            ctx.moveTo(151,203);
+            ctx.lineTo(120,245);
+            ctx.stroke();
+        ctx.lineWidth=2;
+        ctx.beginPath(); //left eye
+            ctx.moveTo(140,93);
+            ctx.lineTo(146,98);
+            ctx.stroke();
+            ctx.moveTo(140,98);
+            ctx.lineTo(146,93);
+            ctx.stroke();
+        ctx.beginPath(); //right eye
+            ctx.moveTo(154,98);
+            ctx.lineTo(160,93);
+            ctx.stroke(); 
+            ctx.moveTo(154,93);
+            ctx.lineTo(160,98);
+            ctx.stroke();
+    }
+    if(numWrong==8){
+        ctx.fillRect(118, 135, 70, 120); //cover body
+        ctx.lineWidth=3;
+        ctx.beginPath(); //body
+            ctx.moveTo(150,150);
+            ctx.lineTo(150,220);
+            ctx.stroke();
+        ctx.beginPath(); //right arm
+            ctx.moveTo(150,165);
+            ctx.lineTo(180,180);
+            ctx.stroke();
+        ctx.beginPath(); //left arm
+            ctx.moveTo(150,165);
+            ctx.lineTo(120,180);
+            ctx.stroke();
+        ctx.beginPath(); //right leg
+            ctx.moveTo(149,218);
+            ctx.lineTo(180,260);
+            ctx.stroke();
+        ctx.beginPath(); //left leg
+            ctx.moveTo(151,218);
+            ctx.lineTo(120,260);
+            ctx.stroke();
+    }
+    if(numWrong==9){
+        ctx.fillRect(118, 143, 70, 120); //cover body
+        ctx.lineWidth=3;
+        ctx.beginPath(); //body
+            ctx.moveTo(150,165);
+            ctx.lineTo(150,235);
+            ctx.stroke();
+        ctx.beginPath(); //right arm
+            ctx.moveTo(150,180);
+            ctx.lineTo(180,195);
+            ctx.stroke();
+        ctx.beginPath(); //left arm
+            ctx.moveTo(150,180);
+            ctx.lineTo(120,195);
+            ctx.stroke();
+        ctx.beginPath(); //right leg
+            ctx.moveTo(149,232);
+            ctx.lineTo(180,270);
+            ctx.stroke();
+        ctx.beginPath(); //left leg
+            ctx.moveTo(151,232);
+            ctx.lineTo(120,270);
+            ctx.stroke();
+    }
+    if(numWrong==10){
+        ctx.fillRect(118, 148, 70, 120); //cover body
+        ctx.lineWidth=3;
+        ctx.beginPath(); //body
+            ctx.moveTo(150,180);
+            ctx.lineTo(150,250);
+            ctx.stroke();
+        ctx.beginPath(); //right arm
+            ctx.moveTo(150,195);
+            ctx.lineTo(180,210);
+            ctx.stroke();
+        ctx.beginPath(); //left arm
+            ctx.moveTo(150,195);
+            ctx.lineTo(120,210);
+            ctx.stroke();
+        ctx.beginPath(); //right leg
+            ctx.moveTo(149,247);
+            ctx.lineTo(200,270);
+            ctx.stroke();
+        ctx.beginPath(); //left leg
+            ctx.moveTo(151,247);
+            ctx.lineTo(100,270);
+            ctx.stroke();
+    }
+    if(numWrong==11){
+        ctx.fillRect(90, 148, 120, 120); //cover body
+        ctx.lineWidth=3;
+        ctx.beginPath(); //body
+            ctx.moveTo(200,195);
+            ctx.lineTo(150,268);
+            ctx.stroke();
+        ctx.beginPath(); //right arm
+            ctx.moveTo(191,210);
+            ctx.lineTo(220,245);
+            ctx.stroke();
+        ctx.beginPath(); //left arm
+            ctx.moveTo(191,210);
+            ctx.lineTo(145,237);
+            ctx.stroke();
+        ctx.beginPath(); //right leg
+            ctx.moveTo(149,268);
+            ctx.lineTo(210,268);
+            ctx.stroke();
+        ctx.beginPath(); //left leg
+            ctx.moveTo(151,268);
+            ctx.lineTo(90,268);
+            ctx.stroke();
+    }
+    if(numWrong==12){
+        ctx.fillRect(90, 145, 140, 120); //cover body
+        ctx.lineWidth=3;
+        ctx.beginPath(); //body
+            ctx.moveTo(230,220);
+            ctx.lineTo(150,268);
+            ctx.stroke();
+        ctx.beginPath(); //right arm
+            ctx.moveTo(212,230);
+            ctx.lineTo(240,255);
+            ctx.stroke();
+        ctx.beginPath(); //left arm
+            ctx.moveTo(212,230);
+            ctx.lineTo(165,237);
+            ctx.stroke();
+    }
+    if(numWrong==13){
+        ctx.fillRect(90, 145, 160, 120); //cover body
+        ctx.lineWidth=3;
+        ctx.beginPath(); //body
+            ctx.moveTo(245,255);
+            ctx.lineTo(150,268);
+            ctx.stroke();
+        ctx.beginPath(); //right arm
+            ctx.moveTo(225,255);
+            ctx.lineTo(255,268);
+            ctx.stroke();
+        ctx.beginPath(); //left arm
+            ctx.moveTo(225,255);
+            ctx.lineTo(185,250);
+            ctx.stroke();
     }
 }
