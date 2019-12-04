@@ -114,7 +114,17 @@ Ricky
    Jawab : Membuat function hang berbentuk gambar orang 
 
 2. Apa yang akan dikerjakan hari ini ?
-   Jawab : mencari backsound game hangaman
+   Jawab : mencari backsound game hangman
 
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : tidak ada kendala
+
+Willy Tanzil
+1. Kemarin mengerjakan apa ?
+   Jawab : Membuat function hang berbentuk gambar orang 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : Mencari backsound game hangman
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Tidak terdapat masalah.
