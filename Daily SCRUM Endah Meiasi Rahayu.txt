@@ -27,6 +27,7 @@ Wili Saputra
    Jawab : Tidak ada masalah.
 
 Ricky
+
 1. Kemarin mengerjakan apa ?
    Jawab : Membuat tampilan responsive terhadap ukuran 866 berbagai media dan membuat function pada javascript pengerjaan kedua
 
@@ -60,6 +61,17 @@ Endah Meiasi Rahayu
 
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : tidak ada kendala.
+
+Wili Saputra 
+
+1. Kemarin mengerjakan apa ?
+   Jawab : menentukan variabel challenge kemudian masukkan dalam variabel array, dan membuat function challenge. 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : membuat function reset dan testing 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Tidak ada masalah.
 
 Ricky
 
