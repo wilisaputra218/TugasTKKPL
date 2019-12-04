@@ -16,6 +16,7 @@ Endah Meiasi Rahayu
    Jawab : tidak ada kendala.
 
 Wili Saputra 
+
 1. Kemarin mengerjakan apa ?
    Jawab : melanjutkan membuat tampilan responsive terhadap ukuran 500px dan membuat percabangan function win pada javascript. 
 
@@ -37,6 +38,7 @@ Ricky
 
 
 Willy Tanzil
+
 1. Kemarin mengerjakan apa ?
    Jawab : Membuat tampilan responsive terhadap ukuran 866 berbagai media dan membuat function pada javascript pengerjaan kedua
 
@@ -51,15 +53,16 @@ Rabu, 04/12/2019
 Endah Meiasi Rahayu 
 
 1. Kemarin mengerjakan apa ?
-   Jawab : 
+   Jawab : menambahkan judul lagu pada variabel Array dan membuat function song yang didalamnya terdapat fungsi random pada javascript.
 
 2. Apa yang akan dikerjakan hari ini ?
-   Jawab : 
+   Jawab : membuat function challengeGuess pada javascrpt.
 
 3. Ada masalah dalam pengerjaan tugas ?
-   Jawab : 
+   Jawab : tidak ada kendala.
 
 Ricky
+
 1. Kemarin mengerjakan apa ?
    Jawab : menambahkan judul film ke variabel array, dan membuat function movies. 
 
@@ -70,6 +73,7 @@ Ricky
    Jawab : function hang masih memiliki bug
 
 Willy Tanzil
+
 1. Kemarin mengerjakan apa ?
    Jawab : Mencari phrases dalam bahasa inggris, kemudian masukkan ke dalam array dan membuat function pada javascript.
 
