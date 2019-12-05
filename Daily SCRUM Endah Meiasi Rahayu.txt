@@ -68,7 +68,7 @@ Wili Saputra
    Jawab : menentukan variabel challenge kemudian masukkan dalam variabel array, dan membuat function challenge. 
 
 2. Apa yang akan dikerjakan hari ini ?
-   Jawab : membuat function reset dan testing 
+   Jawab : membuat function reset dan melakukan testing 
 
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : Tidak ada masalah.
@@ -107,6 +107,17 @@ Endah Meiasi Rahayu
  
 3. Ada masalah dalam pengerjaan tugas ?
    Jawab : tidak ada kendala.
+
+Wili Saputra 
+
+1. Kemarin mengerjakan apa ?
+   Jawab : membuat function reset dan melakukan testing 
+
+2. Apa yang akan dikerjakan hari ini ?
+   Jawab : membuat function audio dan melakukan testing final, membuat tabel sprint burntdown chart. 
+
+3. Ada masalah dalam pengerjaan tugas ?
+   Jawab : Code loop tidak berfungsi.
 
 Ricky
 

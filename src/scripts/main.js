@@ -1,5 +1,5 @@
 var audio = new Audio();
-audio.src = "../sound/Sunbrust.mp3"
+audio.src = "sound/Sunbrust.mp3"
 audio.play();
 
 var rand = 0;
@@ -10,7 +10,7 @@ var phraseLength = 0;
 var numChar = 0;
 var phrases = ["A fish out of water", "A golden key can open any door", "A knight in shining armour", "Apple of my eye", "As good as gold", "One in one million", "I beg to differ", "Easier said than done", "As safe as houses", "Don't cry over spilled milk", "Curiosity killed the cat"];
 var movies = ["Terminator", "The Greatest Showman", "Titanic", "Resident Evil", "Frozen", "Ketika Cinta Bertasbih", "Dua Garis Biru", "Dilan", "Gundala", "Pengabdi Setan", "Despicable Me", "Jumanji"];
-var songs = ["Mungkin", "Jangan Bertengkar", "Salah Apa Ku", "Heavy Rotation", "Runaway Baby", "We Are The Champion", "Loser", "Sambalado", "Direject", "Tanpa Status"];
+var songs = ["Mungkin", "Jangan Bertengkar", "Salah Apa Ku", "Heavy Rotation", "Runaway Baby", "We Are The Champion", "Kill This Love", "Sambalado", "Direject", "Tanpa Status"];
 var challenges = ["E", "R", "W"];
 
 function sp(){
