@@ -1,7 +1,6 @@
 var audio = new Audio();
-audio.src = "sound/Sunbrust.mp3"
+audio.src = "sound/Sunbrust.mp3";
 audio.play();
-
 var rand = 0;
 var word = "";
 var numWrong = 0;
