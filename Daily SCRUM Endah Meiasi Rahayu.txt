@@ -100,13 +100,13 @@ Kamis, 05/12/2019
 Endah Meiasi Rahayu 
 
 1. Kemarin mengerjakan apa ?
-   Jawab : 
+   Jawab : membuat function challengeGuess pada javascrpt.
 
 2. Apa yang akan dikerjakan hari ini ?
-   Jawab : 
-
+   Jawab : membuat code function audio untuk backsound game.
+ 
 3. Ada masalah dalam pengerjaan tugas ?
-   Jawab : 
+   Jawab : tidak ada kendala.
 
 Ricky
 
@@ -120,6 +120,7 @@ Ricky
    Jawab : tidak ada kendala
 
 Willy Tanzil
+
 1. Kemarin mengerjakan apa ?
    Jawab : Membuat function hang berbentuk gambar orang 
 
